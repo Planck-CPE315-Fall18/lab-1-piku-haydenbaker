@@ -31,4 +31,4 @@ message0:
 message1:
     .asciz  "pledge never to crash and die,\n"
 message2:
-    .asciz  "ARM makes me fly\n"
+    .asciz  "for ARM makes me fly\n"
