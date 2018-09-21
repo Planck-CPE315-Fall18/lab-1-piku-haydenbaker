@@ -5,5 +5,5 @@
 * Status
     * Complete
 * Instructions
-    * `gcc -o piku piku.s'
+    * `gcc -o piku piku.s`
     * `./piku`
